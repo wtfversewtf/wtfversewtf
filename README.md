@@ -11,7 +11,7 @@
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 
-<img width="28%" align='right' src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/8afd25c8-265d-46c0-90b2-3c5755438add">
 
 
 <h2 align="left">
@@ -37,6 +37,7 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 
 </details>
 <br>
+
 
 ---
 
