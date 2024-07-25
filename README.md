@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Verse](https://elncqmelhhcm.click)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter** (Optional). <br>
+I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter** (Optional). <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting, ... are very dangerous so I hope I will become a Cybersecurity Specialists then I can protect people from them.
 
 
@@ -63,9 +63,9 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a hacker & Security Researcher. I'm
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=terris91&theme=vision-friendly-dark)](https://github.com/terris91/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=terris91&theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/terris91/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark)](https://github.com/coffinxp/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
 <br><br>
 
@@ -156,15 +156,13 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a hacker & Security Researcher. I'm
   <summary>Show Contact</summary>
  <div>
 <p align="center">
-  <a href="https://t.me/VerseDev"><img width="48px" alt="Telegram" title="Telegram" src="https://i.imgur.com/V98hlNv.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/lventador.verse"><img width="48px" alt="Facebook" title="Facebook" src="https://i.imgur.com/2OULVpW.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_verse.dev/" alt="Instagram"><img width="48px" src="https://i.imgur.com/P8kD6eu.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/channels/@me/1226517205467009105"><img width="48px" alt="Discord" title="Discord" src="https://i.imgur.com/yFf5Y3n.png"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:versedev.store@proton.me"><img width="48px" alt="Mail" title="Mail" src="https://i.imgur.com/D5dddvf.png"></a>
+  <a href="https://t.me/lostsec"><img width="48px" alt="Telegram" title="Telegram" src="https://i.imgur.com/V98hlNv.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/coffinxp7" alt="Twitter"><img width="48px" src="https://i.imgur.com/Dp5U6vm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/@lostsecc"><img width="48px" alt="Youtube" title="Youtube" src="https://i.imgur.com/9ykCuwW.png"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:coffinxp7@proton.me"><img width="48px" alt="Mail" title="Mail" src="https://i.imgur.com/D5dddvf.png"></a>
 </
   div>
 </details>
